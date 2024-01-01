@@ -30,3 +30,4 @@ Planned features:
 - Further display work - a key part of this project is to give the alarm clock some "personality", this will be primarily implemented through bitmap converted animations on the TFT display module, along with previously listed step motors.
 - BLE connectivity - most of the device customization will be ideally implemented with a companion app over BLE. Currently pursuing initial usage with a BlueNRG-M0 module [expansion board](https://www.st.com/en/ecosystems/x-nucleo-idb05a2.html), and a QT powered companion app.
 - Audio output - as mentioned above, the current DAC setup will eventually be used to drive simple audio for alarms, interactions, etc.
+- Motion detection - simple motion detection to drive device state (sleep, wake, etc.)
